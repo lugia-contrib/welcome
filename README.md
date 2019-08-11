@@ -1,2 +1,7 @@
-# welcome
-Organization mission statement and contribution guidelines
+# 关于 lugia-contrib
+
+关于 lugia 的社区贡献组织。这个组织应该为以下目的而存在：
+
+- 中立的，以社区管理为主导的
+- 提供优质的第三方 lugia 模块，这些模块应该是用户频繁使用的
+- 任何人都可以成为组织成员
